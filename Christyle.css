@@ -4,6 +4,22 @@ body{
   font-family:sans-serif
 }
 
-h1 {
+h1,h2 {
   color:#008036;
+}
+
+a:hover{
+  font-size: 20px;
+  transition: 0.5s;
+}
+
+.importante{
+  font-style: italic;
+}
+
+#fine{
+  font-style: oblique;
+  font-size: 60px;
+  font-family:monospace;
+  color:red;
 }
