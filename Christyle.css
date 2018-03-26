@@ -1,12 +1,59 @@
 body{
   margin-right: 20px;
   margin-left: 20px;
-  font-family:sans-serif
+  font-family:Georgia, "Times New Roman", Times, serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: normal;
 }
 
-h1,h2 {
-  color:#008036;
+li {
+  font-family: "Lato", arial, sans-serif;
+  line-height: 1.42857143;
+  font-size: 15px;
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #b31450;
+  letter-spacing: 1px;
 }
+
+h1,#fine{
+  letter-spacing: 1px;
+  color: black;
+	font-family: "Lato", arial, sans-serif;
+	font-size: 34px;
+	text-transform: uppercase;
+	text-align: center;
+  margin-top: 30px;
+}
+
+h2{
+    margin: 0 0 8px 0;
+    padding: 0 0 10px 0;
+    border-bottom: 2px dotted #b31450;
+    font-family: "Lato", arial, sans-serif;
+    line-height: 1.42857143;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #b31450;
+    letter-spacing: 1px
+  }
+
+.riga-grigia {
+    width: 100%;
+    border-bottom: 2px solid #929497;
+    height: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #b31450;
+  }
 
 a:hover{
   font-size: 20px;
@@ -15,11 +62,5 @@ a:hover{
 
 .importante{
   font-style: italic;
-}
-
-#fine{
-  font-style: oblique;
-  font-size: 60px;
-  font-family:monospace;
-  color:red;
+  text-decoration: underline;
 }

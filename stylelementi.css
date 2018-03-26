@@ -1,0 +1,21 @@
+h1 {
+	color: darkblue;
+}
+
+h2 {
+	color: blue;
+}
+
+p {
+	color: grey;
+}
+
+.placeholder {
+	border: 5px solid orange;
+	padding: 5px;
+	color: orange;
+}
+
+.important {
+	text-decoration: underline;
+}
