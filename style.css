@@ -50,11 +50,18 @@
   text-align: left;
 }
 
+#chapters{
+  padding-left:5%;
+  padding-right:5%;
+  text-align: center;
+}
+
 h2 {
   color: black;
 	font-family: "regular", Futura;
 	font-size: 18px;
-	padding-top:30px;
+	padding-bottom:15px;
+	margin:0px;
 }
 
 p{
@@ -75,6 +82,23 @@ a:hover{
   transition: 0.5s;
 }
 
+table  {
+    margin-top:30px;
+}
+
+td, th {
+    border:0px solid white;
+		padding:0px;
+    padding-top:8px;
+		padding-bottom:8px;
+		text-align: center;
+		margin:0px;
+}
+
 #am{
+	margin-top:30px;
+}
+
+#selected{
   color: black
 }
