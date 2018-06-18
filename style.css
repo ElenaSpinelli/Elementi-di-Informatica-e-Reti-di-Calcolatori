@@ -18,23 +18,24 @@
 }
 
 #foto2{
-  position:static;
-	top:0px; left: 0px;
-	padding-bottom: 100%;
+	padding;0;
+	display: inline-block;
+	overflow: hidden;;
 	padding-right: 10%;
 }
 
 #box1{
 	display: inline-block;
-  background-color:red;
+  background-color:white;
   width:39%;
+	height:auto;
 }
 
 #box2{
   display: inline-block;
   background-color:white;
   width:60%;
-	  text-align: left;
+	text-align: left;
 }
 
 .nav {
