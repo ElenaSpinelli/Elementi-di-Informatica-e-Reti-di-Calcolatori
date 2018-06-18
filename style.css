@@ -17,6 +17,26 @@
   width:65%;
 }
 
+#foto2{
+  position:static;
+	top:0px; left: 0px;
+	padding-bottom: 100%;
+	padding-right: 10%;
+}
+
+#box1{
+	display: inline-block;
+  background-color:red;
+  width:39%;
+}
+
+#box2{
+  display: inline-block;
+  background-color:white;
+  width:60%;
+	  text-align: left;
+}
+
 .nav {
   width:34%;
   background-color:white;
@@ -51,17 +71,19 @@
 }
 
 h2 {
-  color: black;
+  color: #262626;
 	font-family: "regular", Futura;
+	font-weight: normal;
 	font-size: 18px;
 	padding-bottom:15px;
 	margin:0px;
 }
 
 p{
-  color:black;
-  font-family: "light", Helvetica;
-  font-size:16px;
+  color:grey;
+  font-family: helvetica,sans-serif ;
+	font-weight:lighter;
+  font-size:15px;
   margin:0;
   margin-bottom:10px;
 }
