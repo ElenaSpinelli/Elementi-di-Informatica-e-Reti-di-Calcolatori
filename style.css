@@ -104,7 +104,7 @@ a:hover{
 }
 
 table, #intro  {
-    margin-top:30px;
+    margin-top:40px;
 }
 
 #intro{
@@ -118,11 +118,6 @@ td, th {
 		padding-bottom:8px;
 		text-align: center;
 		margin:0px;
-}
-
-tr {
-    padding-top:10px;
-		padding-bottom:15px;
 }
 
 #am{
@@ -184,6 +179,7 @@ margin:0px;
 
 #grill{
 	padding-top: 14px;
+	margin-bottom:20px
 }
 
 #s {
