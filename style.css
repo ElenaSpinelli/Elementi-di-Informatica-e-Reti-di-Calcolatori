@@ -140,6 +140,7 @@ margin:0px;
 
 .numbertext {
   font-family: helvetica,sans-serif;
+	display: block;
   color: #262626;
   font-size: 15px;
 	padding: 15px;
@@ -165,12 +166,12 @@ margin:0px;
 
 #logo{
 	position: absolute;
-	right:5%;
+	right:6%;
 	top:30px;
 }
 
 #cancel{
 	position: absolute;
-	left:5%;
+	left:6%;
 	top:30px;
 }
