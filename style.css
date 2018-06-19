@@ -1,3 +1,7 @@
+#all{
+  min-width: 600px
+}
+
 #header{
   background-color:white;
   padding-left:5%;
