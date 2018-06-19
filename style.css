@@ -19,7 +19,6 @@
 
 #foto2{
 	padding;0;
-	float: left;
 	border-radius: 50%;
 	margin-right: 10%;
 	max-width: 340px;
@@ -93,13 +92,14 @@ p{
 }
 
 a{
-  color: #999999;
+  color: black;
+	opacity:0.5;
   text-decoration: none;
 }
 
 a:hover{
   color: black;
-	opacity:1;
+	opacity: 1;
   transition: 0.5s;
 }
 
@@ -125,7 +125,8 @@ margin:0px;
 }
 
 #selected{
-  color: black
+  color: black;
+	opacity:1
 }
 
 .prev, .next {
@@ -178,10 +179,6 @@ margin:0px;
 
 #grill{
 	padding-top: 14px;
-}
-
-#opacity{
-	opacity:0.7;
 }
 
 #s {
@@ -255,4 +252,20 @@ margin:0px;
   width:20px;
   position:absolute;
   top:320px;left:100px;
+}
+
+#text2{
+	text-align: center;
+	padding-left:5%;
+  padding-right:5%;
+}
+
+#box3{
+		margin-top:30px;
+		display: block;
+}
+
+#box4{
+		margin-top:30px;
+		display: inline-block;
 }
