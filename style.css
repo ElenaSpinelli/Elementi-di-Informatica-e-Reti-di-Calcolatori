@@ -120,6 +120,11 @@ td, th {
 		margin:0px;
 }
 
+tr {
+    padding-top:8px;
+		padding-bottom:8px;
+}
+
 #am{
 margin:0px;
 }
