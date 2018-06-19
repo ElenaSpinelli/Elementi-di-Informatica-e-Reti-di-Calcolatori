@@ -175,3 +175,80 @@ margin:0px;
 	left:6%;
 	top:30px;
 }
+
+#grill{
+	padding-top: 14px;
+}
+
+#s {
+  background-color:red;
+  display: inline-block;
+  opacity:0;
+  border-radius: 50%;
+  height:50px;
+  width:50px;
+  position:absolute;
+  top:290px;left:50%;
+}
+
+  #p {
+  background-color:white;
+  display: inline-block;
+  border-radius: 50%;
+  height:50px;
+  width:50px;
+  position:absolute;
+  top:290px;left:50%;
+}
+#marte {
+  transform: translate(210px,5px);
+  border-radius: 50%;
+  height:40px; width:40px;
+  background-color:yellow;
+}
+
+#q {
+  background-color:white;
+  display: inline-block;
+  border-radius: 50%;
+  height:50px;
+  width:50px;
+  position:absolute;
+  top:290px;left:50%;
+}
+#venere {
+  transform: translate(130px,10px);
+  border-radius: 50%;
+  height:30px; width:30px;
+  background-color:blue;
+}
+
+#cliks {
+  background-color:red;
+  display: inline-block;
+  border-radius: 20%;
+  height:20px;
+  width:20px;
+  position:absolute;
+  top:260px;left:100px;
+}
+
+  #clikm {
+  background-color:yellow;
+  display: inline-block;
+  border-radius: 20%;
+  height:20px;
+  width:20px;
+  position:absolute;
+  top:290px;left:100px;
+}
+
+  #clikv {
+  background-color:blue;
+  display: inline-block;
+  border-radius: 20%;
+  height:20px;
+  width:20px;
+  position:absolute;
+  top:320px;left:100px;
+}
