@@ -22,3 +22,6 @@ $("#clikm").on("click", () => {
 $("#cliks").on("click", () => {
  TweenMax.to("#s", 3,{css:{opacity:100}, ease:Quad.easeInOut});
 })
+
+//GSAP
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/TweenMax.min.js"></script> 
